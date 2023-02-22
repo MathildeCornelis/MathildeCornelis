@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mathilde Cornelis
 =========================================================================================================================================
 
-Junior Developer front-end @BeCode.org | Écrivaine multimédia
+Junior Developer @BeCode.org | Écrivaine multimédia
 ---------------------------------------------------
 
 * 🌍  I'm based in Belgium
 * 🖥️  See my portfolio at [Behance](http://https://www.behance.net/mathildeco4ec3)
 * ✉️  You can contact me at [mathilde.cornelis26@gmail.com](mailto:mathilde.cornelis26@gmail.com)
-* 🧠  I'm learning Javascript
+* 🧠  I'm learning React and Tailwind
 
 ### Skills
 
